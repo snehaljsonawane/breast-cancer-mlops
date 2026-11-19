@@ -25,3 +25,6 @@ Project Objectives:
 4. Feature management using Feast.
 5. Experiment tracking using MLflow.
 6. Model selection and lifecycle management.
+
+Git Branching:
+feature/data-preprocessing
