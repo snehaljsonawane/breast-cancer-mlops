@@ -1,0 +1,27 @@
+BREAST CANCER CLASSIFICATION USING MLOPS
+
+Project Description:
+End-to-end MLOps pipeline for breast cancer classification.
+
+Dataset:
+Wisconsin Breast Cancer Diagnostic Dataset.
+
+Programming Language:
+Python
+
+Technologies:
+1. Git
+2. GitHub
+3. DVC
+4. Pandas
+5. Scikit-learn
+6. Feast
+7. MLflow
+
+Project Objectives:
+1. Version control using Git.
+2. Dataset versioning using DVC.
+3. Data pipeline automation.
+4. Feature management using Feast.
+5. Experiment tracking using MLflow.
+6. Model selection and lifecycle management.
